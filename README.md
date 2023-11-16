@@ -40,7 +40,7 @@ Testing multiple algorithms through grid search and cross-validation to identify
 
 ### Running the Project
 
-1. Clone the repository: `git clone https://github.com/yourusername/project.git`
+1. Clone the repository: `git clone https://github.com/yourusername/project.git](https://github.com/samtechy26/MotionForge-RepCountAI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Execute the Jupyter notebooks in the specified order for data processing, feature engineering, and model development.
 
